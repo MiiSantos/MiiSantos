@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/MiiSantos/MiiSantos/blob/main/github.png)
+![alt text](https://github.com/MiiSantos/MiiSantos/blob/main/github-cover.png)
 
 <div align="center">
   <a href="https://github.com/MiiSantos">
